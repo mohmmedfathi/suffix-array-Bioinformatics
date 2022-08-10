@@ -1,0 +1,5 @@
+-this task was in Algorithm on Bioinformatics course on university-
+
+read the fasta file by using C++ language and generate all suffixes for each line
+then write them as binary output on txt file , and handle these things by cmd
+(send the file by cmd as parameter to main , and print the output on cmd)
